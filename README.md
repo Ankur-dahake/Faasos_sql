@@ -1,5 +1,5 @@
 # Faasos_sql
-Faasos is an Indian online food delivery platform.Headquartered in Mumbai, faasos operates in over 15 Indian cities and focuses on delivering wraps, rolls.
+Faasos is an Indian online food delivery platform.Headquartered in Mumbai, faasos operates in over 15 Indian cities and focuses on delivering wraps and rolls.
 
 I create a dummy dataset on it and find out some important points that helps as
 to make decisions like
